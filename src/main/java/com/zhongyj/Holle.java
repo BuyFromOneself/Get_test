@@ -6,6 +6,7 @@ package com.zhongyj;
  */
 public class Holle {
     public static void main(String[] args) {
+
         System.out.println("搭建了架构！！！");
     }
 }
